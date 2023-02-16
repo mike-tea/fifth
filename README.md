@@ -1,4 +1,11 @@
 # fifth
-fifth asm forth aa
+fifth asm forth
+新一代虚拟机高级汇编程序
 
+# 特性
 
+.高级的虚拟机汇编程序，近似高级语言
+.易用
+.高速虚拟机
+
+.用C和自身开发
