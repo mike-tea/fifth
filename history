@@ -51,8 +51,17 @@ c语言只有一个返回值，不方便。
 	0 s #get				-- Book.name
 	1 s #get				-- Book.price
 	
+函数对象.		实现指令：	#getfn,	#call 
+	"fn-name" #getfn
+   	a1 a2 fn #call 
+	
 	
 ==== todo ====
-数组
-table
+关联数组 table
+	{  	name => "cc"
+		x => 10
+	   	y => 20
+	   	t => { 1 2 3 }
+	}
+
 …
